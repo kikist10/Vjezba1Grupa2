@@ -12,5 +12,10 @@ namespace ConsoleApp2
         {
             
         }
+
+        void aaa()
+        {
+
+        }
     }
 }
