@@ -12,5 +12,9 @@ namespace ConsoleApp2
         {
             
         }
+        void bbb()
+        {
+            
+        }
     }
 }
